@@ -1,0 +1,22 @@
+class Human {
+    constructor() {
+        this._age = 18;
+    }
+
+    // Getter
+    get age() {
+        return this._age;
+    }
+
+    // Setter
+    set age(value) {
+        this._age = value;
+    }
+}
+
+let h1 = new Human();
+
+console.log(h1.age); // 18
+
+h1.age = 21;         // Calls setter
+console.log(h1.age); // 21
