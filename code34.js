@@ -17,4 +17,4 @@ let obj=new tempo();
 
 console.log(obj.age);
 
-console.log(obj.#wt)
+
