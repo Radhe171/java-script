@@ -11,3 +11,7 @@ console.log(x)
 console.log("inside of catch block ");
 }
 
+finally{
+    console.log("mai tohh chalunga bcz I'm finally ");
+}
+
