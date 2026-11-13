@@ -1,0 +1,5 @@
+document.getElementById("fperra")
+document.getElementById("fheading")
+document.getElementsByClassName("frist")
+document.getElementsByTagName("p")
+document.getElementsByTagName("h")
