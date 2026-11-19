@@ -27,3 +27,8 @@ mydiv.insertAdjacentElement('beforebegin', newElement); // its used for spacific
 mydiv.insertAdjacentElement('beforeend', newElement);
 mydiv.insertAdjacentElement('afterbegin', newElement);
 mydiv.insertAdjacentElement('afterend', newElement);
+
+
+
+mydiv.removeChild();  // this method is using for remove a element
+
